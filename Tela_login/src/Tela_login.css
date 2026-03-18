@@ -1,0 +1,18 @@
+body {
+    background-color: lightyellow;
+}
+
+h1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+    font-size: 50px;
+}
+
+.usuario {
+    display: flex;
+    justify-content: center;
+
+}
